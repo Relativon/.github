@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🙋‍♀️ A short introduction - AI & Game Innovation Inc.
+😊 A short introduction - AI & Game Innovation Inc.
 
 📫 Contact Us
  - Founder & CEO:https://github.com/AloneMath
